@@ -9,6 +9,7 @@ http://mp.toutiao.com/preview_article/?pgc_id=6707391431717159432
 1.需求（目标实现）
 
 ![image](https://github.com/1600690028/springboot_activiti/blob/master/src/test/java/com/zqsw/01.png)
+
 启动流程，完成Task1然后接收Task2任务，完成Task2流程完成。
 
 2.实现过程
