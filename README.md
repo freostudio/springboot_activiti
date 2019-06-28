@@ -3,7 +3,7 @@ springboot_activiti实现BPM流程Demo
 Activiti + Spring JPA with Spring Boot实现BPM流程引擎，我们工作流少不了流程引擎，Java中有很多流程引擎，而Activiti是开源的出色流程引擎，我们将SpringBoot与Activiti结合实现工作流
 
 具体博客请参考：甫义工作室
-http://mp.toutiao.com/preview_article/?pgc_id=6707391431717159432
+https://www.toutiao.com/i6707391431717159432/
 
 
 1.需求（目标实现）
