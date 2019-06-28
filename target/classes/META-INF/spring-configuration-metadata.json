@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zqsw.bean.User",
+      "name": "person",
+      "type": "com.zqsw.bean.User"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zqsw.bean.User",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zqsw.bean.User",
+      "name": "person.last-name",
+      "description": "@Value 单个属性进行注解",
+      "type": "java.lang.String"
+    }
+  ]
+}
